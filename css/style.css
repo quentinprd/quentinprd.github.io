@@ -1,6 +1,6 @@
 body
 {
-   background-color: #2DACD6;
+   background-color: #d0e4fe;
 }
 
 
@@ -23,10 +23,6 @@ h3
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.r2,.r4
-{
-   
-}
 
 a
 {
@@ -34,8 +30,8 @@ background-color:#F4F9FD;
 border:1px groove black;
 padding:0.5em;
 position: absolute;
-left:50%;
-top:60%;
+right:0%;
+top:100%;
 }
 
 
