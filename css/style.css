@@ -1,3 +1,10 @@
+body
+{
+   background-color: #2DACD6;
+}
+
+
+
 .titre1, .commentaire
 {
    text-align: center;
@@ -10,10 +17,15 @@ h3
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.r1,.r2
+.r1,.r2,.r3,.r4
 {
-    font-weight: 100;
+    font-size: 100%;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+.r2,.r4
+{
+   
 }
 
 a
