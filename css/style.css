@@ -23,6 +23,11 @@ h3
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.r2,.r4
+{
+   left: 15px;
+}
+
 
 a
 {
@@ -30,8 +35,8 @@ background-color:#F4F9FD;
 border:1px groove black;
 padding:0.5em;
 position: absolute;
-right:0px;
-top:0px;
+right:10px;
+top:10px;
 }
 
 
