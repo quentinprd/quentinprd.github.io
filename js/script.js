@@ -68,12 +68,3 @@ $(document).ready(function() {
 	
 });
 
-
-function titreHover(){
-		$('#titre').text("INFO - Blockchain");
-	}
-
-function titreNoHover(){
-
-		$('#titre').text("Bitcoin");
-	}
